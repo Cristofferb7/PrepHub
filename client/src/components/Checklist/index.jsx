@@ -35,12 +35,12 @@ const checkList = ({ checkLists, title, user }) => {
 
               </ul>
             </div>
-            <Link
+            {/* <Link
               className="btn btn-primary btn-block btn-squared"
               to={`/checkLists/${checkLists._id}`}
             >
               Join the discussion on this thought.
-            </Link>
+            </Link> */}
           </div>
         ))}
     </div>
