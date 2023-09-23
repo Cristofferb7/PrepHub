@@ -12,9 +12,8 @@ const Header = () => {
       <div className="container flex-row justify-space-between-lg justify-center align-center">
         <div>
           <Link className="text-light" to="/">
-            <h1 className="m-0">S.O.S Crisis</h1>
+            <h1 className="m-0">Prep Hub</h1>
           </Link>
-          <p className="m-0">Hello Moto</p>
         </div>
         <div>
           {Auth.loggedIn() ? (
