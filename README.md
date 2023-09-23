@@ -1,6 +1,6 @@
 # PrepHub
 
-Welcome to the S-O-S Connect repository! This document provides information about the project and instructions on how to use it.
+Welcome to the Prephub repository! This document provides information about the project and instructions on how to use it.
 
 ## Table of Contents
 
