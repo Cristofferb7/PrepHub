@@ -39,4 +39,4 @@ After you install the dependencies and run the app, you're going to be able to p
 ## Photo
 - Picture of the dashboard of the website.
 
-![sos crisis dashboard](https://github.com/FelixFrancisco1776/S.O.S-connect/assets/136852733/32452a21-6e91-4446-bb14-4ab8414c4fa9)
+![prehub](https://github.com/Cristofferb7/PrepHub/assets/136852733/f10775e5-eee0-4f71-b562-f75780aab30a)
